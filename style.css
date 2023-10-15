@@ -3241,7 +3241,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 2px dashed #fff;
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: bold;
   line-height: 24px;
 }
 
