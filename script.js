@@ -11132,7 +11132,7 @@
                           ? v.test(t.attr("type")) &&
                             (h.test(r) ||
                               (i =
-                                "Please enter a valid email address for: " + n))
+                                "Please enter a valid email ADDRESS for: " + n))
                           : (i = "Please fill out the required field: " + n)
                         : "g-recaptcha-response" !== n ||
                           r ||
