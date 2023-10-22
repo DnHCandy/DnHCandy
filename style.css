@@ -2724,7 +2724,7 @@ figcaption {
   grid-template-rows: auto;
 }
 
-.navbar-ADDRESS {
+.navbar-address {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3725,7 +3725,7 @@ figcaption {
   }
 
   .food-menu-item {
-    font-size: 14px;
+    font-size: 19px;
     line-height: 21px;
   }
 
